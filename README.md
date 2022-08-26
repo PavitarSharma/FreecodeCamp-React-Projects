@@ -7,3 +7,5 @@ useState
 useEffect and Conditional Rendering 
 
 2. Tours
+3. Reviews
+4. Accordian
